@@ -39,7 +39,7 @@ if(isset($_SESSION["uid"])){
 			</ul>
 			<form class="navbar-form navbar-left">
 		        
-		        <button type="submit" class="btn btn-primary" id="search_btn"><span class="glyphicon glyphicon-search"></span></button>
+		        
 		     </form>
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-shopping-cart"></span>Cart<span class="badge">0</span></a>

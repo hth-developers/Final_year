@@ -11,7 +11,7 @@ else{
 if(isset($_POST['submit']))
 {
 $category=$_POST['category'];
-$sql="INSERT INTO  categoeies(cat_title) VALUES(:category)";
+$sql="INSERT INTO  categories(cat_title) VALUES(:category)";
 $query = $dbh->prepare($sql);
 $query->bindParam(':category',$category,PDO::PARAM_STR);
 $query->execute();

@@ -10,26 +10,20 @@ else{
 
 if(isset($_POST['submit']))
   {
-$fullname=$_POST['fullname'];
-$mobile=$_POST['mobileno'];
-$email=$_POST['emailid'];
-$age=$_POST['age'];
-$gender=$_POST['gender'];
-$blodgroup=$_POST['bloodgroup'];
-$address=$_POST['address'];
-$message=$_POST['message'];
-$status=1;
-$sql="INSERT INTO  tblblooddonars(FullName,MobileNumber,EmailId,Age,Gender,BloodGroup,Address,Message,status) VALUES(:fullname,:mobile,:email,:age,:gender,:blodgroup,:address,:message,:status)";
+$product_title=$_POST['product_title'];
+$product_desc=$_POST['product_desc'];
+$product_image=$_FILES['product_image']['name'];
+$product_price=$_POST['product_price'];
+$product_cat=$_POST['product_cat'];
+
+
+$sql="INSERT INTO  products(product_cat,product_title,product_price,product_desc,product_image) VALUES(:product_cat,:product_title,:product_price,:product_desc,:product_image)";
 $query = $dbh->prepare($sql);
-$query->bindParam(':fullname',$fullname,PDO::PARAM_STR);
-$query->bindParam(':mobile',$mobile,PDO::PARAM_STR);
-$query->bindParam(':email',$email,PDO::PARAM_STR);
-$query->bindParam(':age',$age,PDO::PARAM_STR);
-$query->bindParam(':gender',$gender,PDO::PARAM_STR);
-$query->bindParam(':blodgroup',$blodgroup,PDO::PARAM_STR);
-$query->bindParam(':address',$address,PDO::PARAM_STR);
-$query->bindParam(':message',$message,PDO::PARAM_STR);
-$query->bindParam(':status',$status,PDO::PARAM_STR);
+$query->bindParam(':product_title',$product_title,PDO::PARAM_STR);
+$query->bindParam(':product_desc',$product_desc,PDO::PARAM_STR);
+$query->bindParam(':product_image',$product_image,PDO::PARAM_STR);
+$query->bindParam(':product_price',$product_price,PDO::PARAM_STR);
+$query->bindParam(':product_cat',$product_cat,PDO::PARAM_STR);
 $query->execute();
 $lastInsertId = $dbh->lastInsertId();
 if($lastInsertId)
@@ -128,43 +122,35 @@ function isNumberKey(evt)
 									<div class="panel-body">
 <form method="post" class="form-horizontal" enctype="multipart/form-data">
 <div class="form-group">
-<label class="col-sm-2 control-label">Full Name<span style="color:red">*</span></label>
+<label class="col-sm-2 control-label">Product Title<span style="color:red">*</span></label>
 <div class="col-sm-4">
-<input type="text" name="fullname" class="form-control" required>
+<input type="text" name="product_title" class="form-control" required>
 </div>
-<label class="col-sm-2 control-label">Mobile No<span style="color:red">*</span></label>
+<label class="col-sm-2 control-label">Product Description<span style="color:red">*</span></label>
 <div class="col-sm-4">
-<input type="text" name="mobileno" onKeyPress="return isNumberKey(event)"  maxlength="10" class="form-control" required>
+<input type="text" name="product_desc"  class="form-control" required>
 </div>
 </div>
 
 <div class="form-group">
-<label class="col-sm-2 control-label">Email id </label>
+<label class="col-sm-2 control-label">Product Image </label>
 <div class="col-sm-4">
-<input type="email" name="emailid" class="form-control">
+<input type="file" name="product_image" class="form-control">
 </div>
-<label class="col-sm-2 control-label">Age<span style="color:red">*</span></label>
+<label class="col-sm-2 control-label">Product Price<span style="color:red">*</span></label>
 <div class="col-sm-4">
-<input type="text" name="age" class="form-control" required>
+<input type="text" name="product_price" onKeyPress="return isNumberKey(event)"  maxlength="10" class="form-control" required>
 </div>
 </div>
 
 <div class="form-group">
-<label class="col-sm-2 control-label">Gender <span style="color:red">*</span></label>
-<div class="col-sm-4">
-<select name="gender" class="form-control" required>
-<option value="">Select</option>
-<option value="Male">Male</option>
-<option value="Female">Female</option>
-</select>
-</div>
-<label class="col-sm-2 control-label">Blood Group<span style="color:red">*</span></label>
+<label class="col-sm-2 control-label">Product Category<span style="color:red">*</span></label>
 <div class="col-sm-4">
 
 
-<select name="bloodgroup" class="form-control" required>
+<select name="product_cat" class="form-control" required>
 <option value="">Select</option>
-<?php $sql = "SELECT * from  tblbloodgroup ";
+<?php $sql = "SELECT * from  categories ";
 $query = $dbh -> prepare($sql);
 $query->execute();
 $results=$query->fetchAll(PDO::FETCH_OBJ);
@@ -173,7 +159,7 @@ if($query->rowCount() > 0)
 {
 foreach($results as $result)
 {				?>	
-<option value="<?php echo htmlentities($result->BloodGroup);?>"><?php echo htmlentities($result->BloodGroup);?></option>
+<option value="<?php echo htmlentities($result->cat_id);?>"><?php echo htmlentities($result->cat_title);?></option>
 <?php }} ?>
 </select>
 
@@ -183,20 +169,7 @@ foreach($results as $result)
 
 											
 <div class="hr-dashed"></div>
-<div class="form-group">
-<label class="col-sm-2 control-label">Address</label>
-<div class="col-sm-10">
-<textarea class="form-control" name="address" ></textarea>
-</div>
-</div>
 
-<div class="hr-dashed"></div>
-<div class="form-group">
-<label class="col-sm-2 control-label">Message<span style="color:red">*</span></label>
-<div class="col-sm-10">
-<textarea class="form-control" name="message" required> </textarea>
-</div>
-</div>
 
 
 

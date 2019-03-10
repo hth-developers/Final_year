@@ -9,10 +9,10 @@ header('location:index.php');
 else{
 if(isset($_GET['del']))
 {
-$id=$_GET['del'];
-$sql = "delete from categories  WHERE id=:cat_id";
+$cat_id=$_GET['del'];
+$sql = "delete from categories  WHERE cat_id=:cat_id";
 $query = $dbh->prepare($sql);
-$query -> bindParam(':id',$id, PDO::PARAM_STR);
+$query -> bindParam(':cat_id',$cat_id, PDO::PARAM_STR);
 $query -> execute();
 $msg="Data Deleted successfully";
 
@@ -126,7 +126,7 @@ foreach($results as $result)
 											<td><?php echo htmlentities($result->cat_title);?></td>
 											
 <td>
-<a href="manage-bloodgroup.php?del=<?php echo $result->id;?>" onclick="return confirm('Do you want to delete');"><i class="fa fa-close"></i></a></td>
+<a href="manage-bloodgroup.php?del=<?php echo $result->cat_id;?>" onclick="return confirm('Do you want to delete');"><i class="fa fa-close"></i></a></td>
 										</tr>
 										<?php $cnt=$cnt+1; }} ?>
 										

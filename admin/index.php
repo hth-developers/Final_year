@@ -47,7 +47,7 @@ echo "<script type='text/javascript'> document.location = 'change-password.php';
 
 <body>
 	
-	<div class="login-page bk-img" style="background-image: url(img/banner.png);">
+	<div class="login-page bk-img" style="background-image: url(img/background.jpg);">
 		<div class="form-content">
 			<div class="container">
 				<div class="row">

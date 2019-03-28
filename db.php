@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "Flash006";
 $db = "crystal";
 
 // Create connection

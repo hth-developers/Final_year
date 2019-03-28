@@ -146,6 +146,7 @@ if(isset($_SESSION["uid"])){
 			<div class="col-md-1"></div>
 		</div>
 	</div>
+	<script type="text/javascript" src="chat/php/app.php?widget-init.js"></script>
 </body>
 </html>
 

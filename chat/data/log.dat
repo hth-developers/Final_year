@@ -16855,3 +16855,153 @@ Application path: /project/chat/php/app.php?login
 2019-03-24 08:48:45 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
 2019-03-24 08:48:45 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
 2019-03-24 08:48:45 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-init.js
+2019-03-28 14:19:32 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:32 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:32 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-iframe-content&domain=localhost
+2019-03-28 14:19:34 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:34 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:34 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-custom-style.css
+2019-03-28 14:19:35 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-theme-style.css
+2019-03-28 14:19:35 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:35 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:35 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?operator-is-online
+2019-03-28 14:19:36 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:36 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:36 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-init.js
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-iframe-content&domain=localhost
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-theme-style.css
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-custom-style.css
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?operator-is-online
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:19:57 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-init.js
+2019-03-28 14:20:00 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:00 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:00 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-iframe-content&domain=localhost
+2019-03-28 14:20:01 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:01 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:01 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-theme-style.css
+2019-03-28 14:20:01 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-custom-style.css
+2019-03-28 14:20:01 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:01 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:01 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:01 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?operator-is-online
+2019-03-28 14:20:01 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:01 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:01 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-init.js
+2019-03-28 14:20:04 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:04 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:04 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-iframe-content&domain=localhost
+2019-03-28 14:20:04 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:04 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:04 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-theme-style.css
+2019-03-28 14:20:04 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-custom-style.css
+2019-03-28 14:20:04 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:04 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:04 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:04 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?operator-is-online
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-init.js
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-iframe-content&domain=localhost
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-theme-style.css
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-custom-style.css
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?operator-is-online
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:05 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-init.js
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-iframe-content&domain=localhost
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-theme-style.css
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-custom-style.css
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?operator-is-online
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:07 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-init.js
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-iframe-content&domain=localhost
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-theme-style.css
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-custom-style.css
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?operator-is-online
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:08 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-init.js
+2019-03-28 14:20:09 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:09 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:09 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-iframe-content&domain=localhost
+2019-03-28 14:20:09 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:09 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:09 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-theme-style.css
+2019-03-28 14:20:09 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?widget-custom-style.css
+2019-03-28 14:20:09 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:09 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:09 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+Application path: /project/chat/php/app.php?operator-is-online
+2019-03-28 14:20:09 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON has a deprecated constructor on line 115 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:09 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 781 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php
+2019-03-28 14:20:09 Methods with the same name as their class will not be constructors in a future version of PHP; Services_JSON_Error has a deprecated constructor on line 795 in C:\xampp\htdocs\Project\chat\php\lib\JSON.php

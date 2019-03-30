@@ -10,9 +10,9 @@ if(!isset($_SESSION["uid"])){
 	<head>
 		<meta charset="UTF-8">
 		<title>Crystal Furniture</title>
-		<link rel="stylesheet" href="css/bootstrap.min.css"/>
+		<link rel="stylesheet" href="css/bootstrapv3.min.css"/>
 		<script src="js/jquery2.js"></script>
-		<script src="js/bootstrap.min.js"></script>
+		<script src="js/bootstrapv3.min.js"></script>
 		<script src="main.js"></script>
 		<style>
 			@media screen and (max-width:480px){

@@ -2,7 +2,7 @@ SET CHARACTER SET "utf8";
 
 CREATE DATABASE IF NOT EXISTS %db_name% DEFAULT CHARACTER SET "utf8";
 
-CREATE TABLE IF NOT EXISTS %db_name%.mirrormx_customer_chat_user (
+CREATE TABLE IF NOT EXISTS %db_name%.chat_user (
     `id` BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
     `name` CHAR( 32 ) NOT NULL ,
     `mail` CHAR( 64 ) NOT NULL ,
@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS %db_name%.mirrormx_customer_chat_user (
     `last_activity` TIMESTAMP NOT NULL DEFAULT 0
 ) DEFAULT CHARACTER SET "utf8";
 
-CREATE TABLE IF NOT EXISTS %db_name%.mirrormx_customer_chat_message (
+CREATE TABLE IF NOT EXISTS %db_name%.chat_message (
     `id` BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
     `from_id` BIGINT NOT NULL ,
     `to_id` BIGINT NOT NULL ,
@@ -25,7 +25,7 @@ CREATE TABLE IF NOT EXISTS %db_name%.mirrormx_customer_chat_message (
     `to_user_info` TEXT NOT NULL
 ) DEFAULT CHARACTER SET "utf8";
 
-CREATE TABLE IF NOT EXISTS %db_name%.mirrormx_customer_chat_data (
+CREATE TABLE IF NOT EXISTS %db_name%.chat_data (
     `id` BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
     `type` VARCHAR(255) NOT NULL ,
     `key` VARCHAR(255) NOT NULL ,

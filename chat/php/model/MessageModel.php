@@ -29,7 +29,7 @@ class MessageModel extends Model
 
     public function getTableName()
     {
-        return 'mirrormx_customer_chat_message';
+        return 'chat_message';
     }
 
     public function getColumns()

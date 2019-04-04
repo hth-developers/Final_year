@@ -26,7 +26,7 @@ class DataModel extends Model
     
     public function getTableName()
     {
-        return 'mirrormx_customer_chat_data';
+        return 'chat_data';
     }
     
     public function getColumns()

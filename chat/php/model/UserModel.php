@@ -29,7 +29,7 @@ class UserModel extends Model
     
     public function getTableName()
     {
-        return 'mirrormx_customer_chat_user';
+        return 'chat_user';
     }
     
     public function getColumns()

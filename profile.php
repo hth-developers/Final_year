@@ -14,6 +14,7 @@ if(!isset($_SESSION["uid"])){
 		<script src="js/jquery2.js"></script>
 		<script src="js/bootstrapv3.min.js"></script>
 		<script src="main.js"></script>
+		<link rel="stylesheet" type="text/css" href="style.css">
 		<style>
 			@media screen and (max-width:480px){
 				#search{width:80%;}
